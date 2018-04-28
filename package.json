@@ -1,0 +1,15 @@
+{
+  "name": "pixi_add_error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=development parcel index.html --no-hmr --no-autoinstall",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^5.0.0-alpha.2"
+  }
+}
